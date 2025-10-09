@@ -13,9 +13,10 @@
 **Languages:**
 - Python (AI/ML)
 - JavaScript (Vanilla JS, Canvas API)
+- HTML
 
 **AI Tools:**
-- Claude, ChatGPT, Gemini, Copilot, DeepSeek, Grok, Kling AI, ElevenLabs
+- Claude, ChatGPT, Gemini, Copilot, DeepSeek, Grok, Kling AI, ElevenLabs, Perplexity
 
 **Focus:**
 - AI Chatbots & Conversational AI
